@@ -1,0 +1,2 @@
+set_io SCL 36      # I2C SCL (pin 36)
+set_io SDA 37      # I2C SDA (pin 37)

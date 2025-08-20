@@ -1,0 +1,17 @@
+set_io and_in1 9
+set_io and_in2 10
+set_io or_in1 11
+set_io or_in2 12
+
+set_io led_1 48
+set_io led_2 47
+set_io led_3 46
+set_io led_4 45
+
+
+
+set_io enable      6   # Output to enable button circuit
+set_io and_result  38
+set_io or_result 42
+
+

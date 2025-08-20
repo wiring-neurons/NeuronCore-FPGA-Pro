@@ -1,0 +1,6 @@
+set_io clk 20
+set_io data 38
+set_io carrier_high 42
+set_io carrier_low 43
+set_io modulated 44
+set_io demodulated 45

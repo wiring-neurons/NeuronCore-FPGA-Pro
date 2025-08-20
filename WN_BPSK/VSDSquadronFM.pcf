@@ -1,0 +1,4 @@
+set_io data 38
+set_io carrier 42
+set_io modulated 43
+set_io demodulated 44

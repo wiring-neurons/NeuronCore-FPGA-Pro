@@ -1,0 +1,4 @@
+set_io message 38
+set_io carrier 42
+set_io ask_mod 43
+set_io ask_demod 44

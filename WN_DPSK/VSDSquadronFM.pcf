@@ -1,0 +1,7 @@
+set_io clk 20
+set_io data_bit 38
+set_io carrier_0 42
+set_io carrier_180 43
+set_io encoded_bit 44
+set_io modulated 45
+set_io demodulated 46

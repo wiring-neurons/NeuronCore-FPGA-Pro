@@ -1,0 +1,3 @@
+set_io tx 14
+set_io tx2 38
+set_io clk 20
