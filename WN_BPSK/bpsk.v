@@ -1,64 +1,75 @@
 module bpsk (
-
-	output reg carrier,
-	output reg message,
-	output reg bpsk_mod,
-	output reg bpsk_demod
-
+    output carrier,        // 50kHz carrier
+    output data,           // 10kHz data
+    output modulated,      // BPSK signal
+    output demodulated     // Demodulated data
 );
 
+// Internal 12 MHz clock
 wire clk;
+SB_HFOSC #(
+    .CLKHF_DIV("0b11")    // Divide 48MHz by 4 = 12MHz
+) hfosc_inst (
+    .CLKHFPU(1'b1),
+    .CLKHFEN(1'b1),
+    .CLKHF(clk)
+);
 
-reg [26:0] msg_ctr;
-reg [26:0] msg_freq = 48000000/ 1; //1 hz message signal
-reg [26:0] car_ctr;
-reg [26:0] car_freq = 48000000/ 8; //8 hz carrier signal
-reg [26:0] demod_ctr;
-reg [7:0] msg = 8'b10101100;
-reg [2:0] eb_ctr = 0;
-reg [0:0] edge_1;
-reg [0:0] edge_0;
+// ========== PARAMETERS ==========
+parameter CARRIER_DIV = 120;      // 12MHz / (120*2) = 50kHz
+parameter BIT_PERIOD = 1200;      // 12MHz / 10kHz = 1200 cycles/bit
+parameter DATA_PATTERN = 8'b10110010;
 
-SB_HFOSC u_SB_HFOSC (.CLKHFPU(1'b1), .CLKHFEN(1'b1), .CLKHF(clk));
-
+// ========== CARRIER GENERATION ==========
+reg [6:0] c_cnt = 0;
+reg car = 0;
 always @(posedge clk) begin
-
-	msg_ctr <= msg_ctr+1;
-	car_ctr <= car_ctr+1;
-
-
-	if( car_ctr == car_freq) begin
-	    car_ctr <= 0;
-	    carrier <= ~carrier;
-	    if(~edge_1 && ~edge_0) begin
-	       bpsk_mod <= carrier;
-	    end else begin
-	       edge_1 <= 0;
-               edge_0 <= 0;
-            end
-	    
-	end
-
-	if( msg_ctr == msg_freq) begin
-	    msg_ctr <= 0;
-	    if( eb_ctr == 7) begin
-		eb_ctr <= 0;
-            end
-	    message <= msg[7 - eb_ctr];    
-
-	    if(msg[7 - eb_ctr] == 1) begin
-	       edge_1 <= 1;
-	    end else if (msg[7 - eb_ctr] == 0) begin
-	       edge_0 <= 1;
-	    end        
-	    eb_ctr <= eb_ctr + 1;
-	    
-	end
-	
-	
-
-
-
+    if (c_cnt == CARRIER_DIV-1) begin
+        c_cnt <= 0;
+        car <= ~car;
+    end else
+        c_cnt <= c_cnt + 1;
 end
+assign carrier = car;
+
+// ========== DATA GENERATION ==========
+reg [10:0] d_cnt = 0;
+reg [2:0] bit_idx = 0;
+reg d = 0;
+always @(posedge clk) begin
+    if (d_cnt == BIT_PERIOD-1) begin
+        d_cnt <= 0;
+        bit_idx <= (bit_idx == 7) ? 0 : bit_idx + 1;
+        d <= DATA_PATTERN[7 - bit_idx];
+    end else
+        d_cnt <= d_cnt + 1;
+end
+assign data = d;
+
+// ========== MODULATION ==========
+reg mod = 0;
+always @(posedge clk) begin
+    if (c_cnt == 0) begin
+        mod <= d ? ~car : car;
+    end
+end
+assign modulated = mod;
+
+// ========== DEMODULATION ==========
+reg [10:0] m_cnt = 0;
+reg [10:0] err_cnt = 0;
+reg demod = 0;
+always @(posedge clk) begin
+    if (m_cnt == 0) err_cnt <= 0;
+    if (mod != car) err_cnt <= err_cnt + 1;
+
+    if (m_cnt == BIT_PERIOD-1) begin
+        demod <= (err_cnt > BIT_PERIOD/2);
+        m_cnt <= 0;
+    end else
+        m_cnt <= m_cnt + 1;
+end
+assign demodulated = demod;
 
 endmodule
+
