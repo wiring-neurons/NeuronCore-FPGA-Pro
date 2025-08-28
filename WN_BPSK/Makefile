@@ -1,11 +1,11 @@
 # Define project-specific variables
-TOP=bpsk2
+TOP=bpsk
 PCF_FILE=VSDSquadronFM
 BOARD_FREQ=12
 CPU_FREQ=20
 FPGA_VARIANT=up5k
 FPGA_PACKAGE=sg48
-VERILOG_FILE= bpsk2.v
+VERILOG_FILE= bpsk.v
 
 #Uart Var	
 PICO_DEVICE=/dev/ttyUSB0   # replace by the terminal used by your device
