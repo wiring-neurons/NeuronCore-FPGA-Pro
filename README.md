@@ -25,7 +25,6 @@ Make sure your user is added to Sudoers file
 
 We Start the installation with these commands
 
-Execute the commands in the proper order
 
 PLEASE ENTER PASSWORD AFTER EACH COMMAND
 
@@ -37,7 +36,7 @@ Replace username with the actual username
 
 
 
-
+Execute the commands in the proper order
 1. This will install git
 ```
 sudo apt install -y git
