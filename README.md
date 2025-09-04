@@ -24,8 +24,11 @@ Make sure your user is added to Sudoers file
 </details>
 
 We Start the installation with these commands
+
 Execute the commands in the proper order
+
 PLEASE ENTER PASSWORD AFTER EACH COMMAND
+
 if you want to remove the password then
 ```
 sudo passwd -d username
