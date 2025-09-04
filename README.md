@@ -21,7 +21,7 @@ Make sure your user is added to Sudoers file
  ```
 
  Now reboot your system
-
+-------------------------------------------
 </details>
 
 
