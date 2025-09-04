@@ -35,6 +35,9 @@ sudo passwd -d username
 ```
 Replace username with the actual username
 
+
+
+
 1. This will install git
 ```
 sudo apt install -y git
