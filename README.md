@@ -26,15 +26,18 @@ Make sure your user is added to Sudoers file
 We Start the installation with these commands
 
 
-PLEASE ENTER PASSWORD AFTER EACH COMMAND
+YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
 
-if you want to remove the password then
+<details>
+<summary> if you want to remove the password then CLICK HERE </summary>
+<br>
+ 
 ```
 sudo passwd -d username
 ```
 Replace username with the actual username
-
-
+After executing your command enter the password for one last time
+</details>
 
 Execute the commands in the proper order
 1. This will install git
