@@ -25,15 +25,21 @@ Make sure your user is added to Sudoers file
 
 We Start the installation with these commands
 Execute the commands in the proper order
+PLEASE ENTER PASSWORD AFTER EACH COMMAND
+if you want to remove the password then
+```
+sudo passwd -d username
+```
+Replace username with the actual username
 
 1. This will install git
 ```
-sudo apt install git
+sudo apt install -y git
 ```
 
 2. This will install make
 ```
-sudo apt install make
+sudo apt install -y make
 ```
 3. This will clone the installation Makefile
 ```
