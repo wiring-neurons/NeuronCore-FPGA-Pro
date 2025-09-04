@@ -39,7 +39,7 @@ sudo apt install make
 ```
 git clone https://github.com/wiring-neurons/Ubuntu-Makefile.git
 ```
-4. This will start the installation process
+4. This will start the installation process and will take a while
 ```
 make neuroncore
 ```
