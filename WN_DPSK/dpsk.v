@@ -81,7 +81,7 @@ end
         else if (bit_timer == (BIT_DIV / 2)) begin
             // Detect phase change → gives encoded stream
             decoded_bit  <= ~(prev_sample ^ modulated);
-            demodulated  <= decoded_bit;
+            demodulated  <= ~decoded_bit;
 
             // Differential decoding → recover original data
             decoded      <= ~(decoded_bit ^ prev_demod);
