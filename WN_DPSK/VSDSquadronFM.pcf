@@ -5,3 +5,4 @@ set_io carrier_180 43
 set_io encoded_bit 44
 set_io modulated 45
 set_io demodulated 46
+set_io decoded 47
