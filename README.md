@@ -49,22 +49,49 @@ sudo apt install -y git
 ```
 sudo apt install -y make
 ```
-3. This will clone the installation Makefile
-```
-git clone https://github.com/wiring-neurons/Ubuntu-Makefile.git
-```
-4. Bring that to the home folder, execute this commands in order
+3. Execute this commands in order
 ```
 cd
 ```
+4.
 ```
-cd Ubuntu-Makefile
+wget https://github.com/YosysHQ/oss-cad-suite-build/releases/download/2024-08-14/oss-cad-suite-linux-x64-20240814.tgz
 ```
+5.
 ```
-mv Makefile /home/neuroncore/
+tar -xvzf oss-cad-suite-linux-x64-20240814.tgz
 ```
-4. This will start the installation process and will take a while
+6.
 ```
-make neuroncore
+cd oss-cad-suite
 ```
+7.
+```
+source environment
+```
+8.
+```
+source $HOME/oss-cad-suite/environment
+```
+9.
+```
+cd
+```
+10.
+```
+echo 'source $HOME/oss-cad-suite/environment' >> ~/.bashrc
+```
+11.
+```
+sudo apt install -y gedit
+```
+12.
+```
+git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
+```
+13.
+```
+cd NeuronCore-FPGA-Pro
+```
+
 
