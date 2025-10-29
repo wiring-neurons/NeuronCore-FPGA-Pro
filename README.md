@@ -53,6 +53,16 @@ sudo apt install -y make
 ```
 git clone https://github.com/wiring-neurons/Ubuntu-Makefile.git
 ```
+4. Bring that to the home folder, execute this commands in order
+```
+cd
+```
+```
+cd Ubuntu-Makefile
+```
+```
+mv Makefile /home/neuroncore/
+```
 4. This will start the installation process and will take a while
 ```
 make neuroncore
