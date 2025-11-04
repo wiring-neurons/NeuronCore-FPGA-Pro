@@ -40,9 +40,13 @@ Wait until you see this
 Then Please Restart you computer
 
 Step 2:
+
 Install Oracle Virtual Box Version 7.1.2
+
 CLICK below to start downloading
+
 https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+
 After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 Step 3:
