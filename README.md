@@ -94,7 +94,7 @@ sudo /media/cdrom/VBoxLinuxAdditions.run
 Then click on Devices > Shared Clipboard > Bidirectional
 Reboot your VM once if it's not working
 
-</detials>
+</details>
 
 
 Execute the commands in the proper order
