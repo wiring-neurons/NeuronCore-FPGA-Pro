@@ -6,6 +6,7 @@
 
 <details>
  <summary> New Installation through downloading </summary>
+<br>
  
 Step 1:
 Install Microsoft C++ redistributable
@@ -22,7 +23,8 @@ After downloading click on the file and then approve the terms and conditions an
 
 Step 3:
 Install the Virtual Box VDI File
- 
+
+ </details>
 </details>
 
 
