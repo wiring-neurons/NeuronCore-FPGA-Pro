@@ -18,26 +18,27 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
-Click on the check box
+###Click on the check box
 
 <img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/29de53fb-9541-49c3-8c81-de27bc126624" />
 
-Click on Install
+###Click on Install
 
 <img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/85d44d45-8977-423b-bde3-02a1beaf4226" />
 
-Then Click on Yes
+###Then Click on Yes
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d1af4448-26bb-42d7-adf4-ffc8e8517f59" />
 
-Then Please wait for sometime for it Install
+###Then Please wait for sometime for it Install
 
 <img width="719" height="444" alt="image" src="https://github.com/user-attachments/assets/c00fa091-f56f-4830-b010-d5db53b56824" />
 
-Wait until you see this
+###Wait until you see this
+
 <img width="706" height="442" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
 
-Then Please Restart you computer
+###Then Please Restart you computer
 
 Step 2:
 
