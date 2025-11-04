@@ -1,5 +1,13 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
+
+
+
+
+<details>
+<summary> If you want to install on Linux then CLICK HERE </summary>
+<br>
+
 Make sure your user is added to Sudoers file
 
 <details>
@@ -94,4 +102,5 @@ git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
 cd NeuronCore-FPGA-Pro
 ```
 
+</details>
 
