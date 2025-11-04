@@ -64,7 +64,41 @@ Replace username with the actual username
 After executing your command enter the password for one last time
 </details>
 
+<details>
+<summary> If you are installing in VM and your clipboard is not working between windows and VM then CLICK HERE</summary>
+<br>
+
+
+1. Click on Devices > Insert Guest Additions CD Image
+
+2.
+```
+sudo apt install -y build-essential dkms linux-headers-$(uname -r)
+```
+
+3.
+```
+sudo mkdir -p /media/cdrom
+```
+
+4.
+```
+sudo mount /dev/cdrom /media/cdrom
+```
+
+5.
+```
+sudo /media/cdrom/VBoxLinuxAdditions.run
+```
+
+Then click on Devices > Shared Clipboard > Bidirectional
+Reboot your VM once if it's not working
+
+</detials>
+
+
 Execute the commands in the proper order
+
 1. This will install git
 ```
 sudo apt install -y git
@@ -78,43 +112,82 @@ sudo apt install -y make
 ```
 cd
 ```
+
 4.
 ```
-wget https://github.com/YosysHQ/oss-cad-suite-build/releases/download/2024-08-14/oss-cad-suite-linux-x64-20240814.tgz
+sudo apt install -y libftdi-dev libftdi1 libusb-1.0-0-dev
 ```
+
 5.
 ```
-tar -xvzf oss-cad-suite-linux-x64-20240814.tgz
+sudo apt install build-essential clang bison flex libreadline-dev \
+                 gawk tcl-dev libffi-dev git mercurial graphviz xdot \
+                 pkg-config python3 libboost-system-dev libboost-python-dev \
+                 libboost-filesystem-dev zlib1g-dev
 ```
+
 6.
 ```
-cd oss-cad-suite
+git clone https://github.com/cliffordwolf/icestorm.git
 ```
+
 7.
 ```
-source environment
+cd icestorm
 ```
+
 8.
 ```
-source $HOME/oss-cad-suite/environment
+make -j$(nproc)
 ```
+
 9.
+```
+sudo make install
+```
+
+10.
 ```
 cd
 ```
-10.
-```
-echo 'source $HOME/oss-cad-suite/environment' >> ~/.bashrc
-```
+
 11.
 ```
-sudo apt install -y gedit
+wget https://github.com/YosysHQ/oss-cad-suite-build/releases/download/2024-08-14/oss-cad-suite-linux-x64-20240814.tgz
 ```
 12.
 ```
-git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
+tar -xvzf oss-cad-suite-linux-x64-20240814.tgz
 ```
 13.
+```
+cd oss-cad-suite
+```
+14.
+```
+source environment
+```
+15.
+```
+source $HOME/oss-cad-suite/environment
+```
+16.
+```
+cd
+```
+17.
+```
+echo 'source $HOME/oss-cad-suite/environment' >> ~/.bashrc
+```
+18.
+```
+sudo apt install -y gedit
+```
+19.
+```
+git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
+```
+20.
 ```
 cd NeuronCore-FPGA-Pro
 ```
