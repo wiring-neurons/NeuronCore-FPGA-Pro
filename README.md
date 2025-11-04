@@ -4,15 +4,21 @@
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
 <br>
 
+<details>
+ <summary> New Installation through downloading </summary>
+ 
 Step 1:
 Install Microsoft C++ redistributable
 
 CLICK below to start downloading
 https://aka.ms/vs/17/release/vc_redist.x64.exe
+After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 Step 2:
 Install Oracle Virtual Box Version 7.1.2
+CLICK below to start downloading
 https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 Step 3:
 Install the Virtual Box VDI File
