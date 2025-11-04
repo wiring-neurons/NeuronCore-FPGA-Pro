@@ -1,6 +1,23 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
+<details>
+<summary> If you want to install on Windows using VirtualBox then CLICK HERE </summary>
+<br>
 
+Step 1:
+Install Microsoft C++ redistributable
+
+CLICK below to start downloading
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Step 2:
+Install Oracle Virtual Box Version 7.1.2
+https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+
+Step 3:
+Install the Virtual Box VDI File
+ 
+</details>
 
 
 
