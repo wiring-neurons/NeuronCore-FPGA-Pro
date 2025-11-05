@@ -222,9 +222,25 @@ sudo apt install -y gedit
 ```
 19.
 ```
-git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
+sudo apt install -y python3
 ```
 20.
+```
+sudo apt install -y python3-pyqt5
+```
+21.
+```
+sudo apt install -y python3-matplotlib
+```
+22.
+```
+sudo apt install -y python3-numpy
+```
+23.
+```
+git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
+```
+24.
 ```
 cd NeuronCore-FPGA-Pro
 ```
