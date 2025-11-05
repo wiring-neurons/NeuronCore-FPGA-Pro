@@ -28,7 +28,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 #### Then Click on Yes
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d1af4448-26bb-42d7-adf4-ffc8e8517f59" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d1af4448-26bb-42d7-adf4-ffc8e8517f59" />
 
 #### Then Please wait for sometime for it Install
 
