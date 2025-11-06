@@ -228,17 +228,13 @@ sudo apt install -y python3
 ```
 sudo apt install -y python3-serial
 ```
-20.
+21.
 ```
 sudo apt install -y python3-pyqt5
 ```
-21.
-```
-sudo apt install -y python3-matplotlib
-```
 22.
 ```
-sudo apt install -y python3-numpy
+sudo apt install -y python3-matplotlib
 ```
 23.
 ```
