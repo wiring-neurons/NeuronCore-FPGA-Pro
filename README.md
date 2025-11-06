@@ -226,6 +226,10 @@ sudo apt install -y python3
 ```
 20.
 ```
+sudo apt install -y python3-serial
+```
+20.
+```
 sudo apt install -y python3-pyqt5
 ```
 21.
