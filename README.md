@@ -32,11 +32,11 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 #### Then Please wait for sometime for it Install
 
-<img width="719" height="444" alt="image" src="https://github.com/user-attachments/assets/c00fa091-f56f-4830-b010-d5db53b56824" />
+<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/c00fa091-f56f-4830-b010-d5db53b56824" />
 
 #### Wait until you see this
 
-<img width="706" height="442" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
+<img width="253" height="223" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
 
 #### Then Please Restart you computer
 
