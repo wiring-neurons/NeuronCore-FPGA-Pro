@@ -77,7 +77,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 <img width="493" height="393" alt="image" src="https://github.com/user-attachments/assets/2f24b343-b9f8-466f-86cb-28f79c1b129a" />
 
-#### Then click on Yes
+#### Then click on Next
 
 <img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/e9df9b4a-16f7-4619-92cf-d98b097066d7" />
 
