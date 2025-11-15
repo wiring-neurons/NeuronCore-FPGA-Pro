@@ -40,15 +40,58 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 #### Then Please Restart you computer
 
-Step 2:
+### Step 2:
 
-Install Oracle Virtual Box Version 7.1.2
+#### Install Oracle Virtual Box Version 7.1.2
 
-CLICK below to start downloading
+#### CLICK below to start downloading
 
 https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
-After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
+#### After downloading click on the file
+
+#### Then click on Yes
+
+
+#### Then click on Next
+
+<img width="497" height="401" alt="image" src="https://github.com/user-attachments/assets/93371348-e31f-4f11-a46b-0ea278afdfb1" />
+
+#### Then check the "I accept the terms in License Agreement"
+
+<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/015442ee-f68d-45c8-8332-f0c23a5bd76b" />
+
+#### Then click on Next
+
+<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/09d73810-f5d7-413c-b53b-297c77340689" />
+
+#### Then again click on Next
+
+<img width="493" height="388" alt="image" src="https://github.com/user-attachments/assets/02433334-9294-4d5b-9883-e5ad008c25ef" />
+
+#### Then click on Yes
+
+<img width="493" height="391" alt="image" src="https://github.com/user-attachments/assets/c1cf51ce-a5d0-4985-9ea1-122caac1db61" />
+
+#### Then again click on Yes
+
+<img width="493" height="393" alt="image" src="https://github.com/user-attachments/assets/2f24b343-b9f8-466f-86cb-28f79c1b129a" />
+
+#### Then click on Yes
+
+<img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/e9df9b4a-16f7-4619-92cf-d98b097066d7" />
+
+#### Then click on Install
+
+<img width="500" height="418" alt="image" src="https://github.com/user-attachments/assets/dd6aff58-a71d-4ecd-b12e-a69260f170a3" />
+
+#### Then wait until it finishes
+
+<img width="495" height="396" alt="image" src="https://github.com/user-attachments/assets/2e188602-3ae7-4d47-a250-9073a3493a08" />
+
+#### Then click on Finish
+
+<img width="507" height="425" alt="image" src="https://github.com/user-attachments/assets/23be1e0a-bc74-4744-a7bb-00a702a26e7d" />
 
 Step 3:
 Install the Virtual Box VDI File
