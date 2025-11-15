@@ -5,7 +5,7 @@
 <br>
 
 <details>
- <summary>                   New Installation through downloading </summary>
+   <summary> New Installation through downloading </summary>
 <br>
  
 ### Step 1:
