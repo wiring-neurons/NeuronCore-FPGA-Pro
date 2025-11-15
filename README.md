@@ -36,7 +36,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 #### Wait until you see this
 
-<img width="253" height="223" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
+<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
 
 #### Then Please Restart you computer
 
