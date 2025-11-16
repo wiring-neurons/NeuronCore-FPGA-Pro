@@ -1,11 +1,11 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
-## ---------------------------------------------------------
+
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
 <br>
 
-## --------------------------------
+
 <details>
 <summary> New Installation through downloading </summary>
 <br>
@@ -54,6 +54,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 #### Then click on Yes
 
+<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/fe31e421-0e65-4870-a805-b39feb88c208" />
 
 #### Then click on Next
 
@@ -95,8 +96,11 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 <img width="507" height="425" alt="image" src="https://github.com/user-attachments/assets/23be1e0a-bc74-4744-a7bb-00a702a26e7d" />
 
-Step 3:
-Install the Virtual Box VDI File
+### Step 3:
+#### Make sure you have enough space your machine to install
+
+#### 
+
 
  </details>
 </details>
