@@ -1,9 +1,11 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
+## ---------------------------------------------------------
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
 <br>
 
+## --------------------------------
 <details>
 <summary> New Installation through downloading </summary>
 <br>
