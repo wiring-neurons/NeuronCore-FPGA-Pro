@@ -97,10 +97,69 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 <img width="507" height="425" alt="image" src="https://github.com/user-attachments/assets/23be1e0a-bc74-4744-a7bb-00a702a26e7d" />
 
 ### Step 3:
-#### Make sure you have enough space your machine to install
+#### Make sure you have at least 50 GB space in your machine to install
 
-#### 
+<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/2b36c560-3250-4434-ba55-d48b1f71882f" />
 
+#### After the file is downloaded Open Oracle VirtualBox and click on New
+
+<img width="348" height="182" alt="image" src="https://github.com/user-attachments/assets/bcd761ce-bb92-4459-ba61-30e416dfea31" />
+
+#### Enter the Name as NeuronCore in the text box
+
+<img width="570" height="431" alt="image" src="https://github.com/user-attachments/assets/f7329a17-0edd-42bd-a054-cee466566219" />
+
+#### Click on the Subtype
+
+<img width="318" height="120" alt="image" src="https://github.com/user-attachments/assets/b5557508-8dbf-4b58-b0f7-41750f6c7f40" />
+
+#### Then select Ubuntu
+
+<img width="433" height="275" alt="image" src="https://github.com/user-attachments/assets/d2b8a64a-83e6-40a6-8fce-9cf16d9dbc09" />
+
+#### Then click on the Version
+
+<img width="427" height="113" alt="image" src="https://github.com/user-attachments/assets/7ec376b9-8f85-4f26-a5b6-0c1d13628fad" />
+
+#### Then scroll down until you find the "Ubuntu 20.04 LTS (Focal Fossa) (64-bit)" then select it
+
+<img width="567" height="442" alt="image" src="https://github.com/user-attachments/assets/a7b937d7-fdcd-4660-8ed3-eeda3909d6e0" />
+
+#### Then click on Hardware
+
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/66288c59-3108-4f28-8ecd-1acb44f00f65" />
+
+#### Here enter the RAM as 2048
+
+<img width="452" height="171" alt="image" src="https://github.com/user-attachments/assets/c99662f4-cf6f-46a3-a5b9-99c188a84092" />
+
+#### Here enter the CPU as 2
+
+<img width="446" height="206" alt="image" src="https://github.com/user-attachments/assets/72f6823d-00a9-4016-90d8-4ab5914d20e0" />
+
+#### Then click on Hard Disk
+
+<img width="446" height="206" alt="image" src="https://github.com/user-attachments/assets/28ee5342-d4ad-4646-b1a8-2d59f4dd94e8" />
+
+#### Then check the Use an Existing Virtual Hard Disk File
+
+<img width="446" height="277" alt="image" src="https://github.com/user-attachments/assets/18433a79-79a9-404c-8f81-af924efaa885" />
+
+#### Then click on the file icon
+
+<img width="455" height="175" alt="image" src="https://github.com/user-attachments/assets/48e0d6e8-452c-4888-b330-fdb7a562ae04" />
+
+#### Then click on Add
+
+<img width="476" height="273" alt="image" src="https://github.com/user-attachments/assets/39f37cc1-9a97-4b03-aabf-d4916d46936f" />
+
+#### Then navigate in your system and select the NeuronCore.vdi file
+
+<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/311b4c63-5e34-438e-ad41-11a2a883f84f" />
+
+#### Then click on Open
+
+<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/02a119a7-f36f-46e0-b12f-984d639dd995" />
 
  </details>
 </details>
