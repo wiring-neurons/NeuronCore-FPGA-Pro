@@ -164,6 +164,13 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
  </details>
 </details>
 
+<details>
+<summary> Trouble Shooting on Windows in VirtualBox CLICK HERE </summary>
+<br>
+
+
+
+</details>
 
 
 <details>
