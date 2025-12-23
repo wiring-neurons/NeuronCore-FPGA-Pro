@@ -168,7 +168,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 <summary> Trouble Shooting on Windows in VirtualBox CLICK HERE </summary>
 <br>
 
-<img width="843" height="853" alt="image" src="https://github.com/user-attachments/assets/a7be9e9b-73ed-4f83-a532-e3c9347d997a" />
+<img width="353" height="385" alt="image" src="https://github.com/user-attachments/assets/a7be9e9b-73ed-4f83-a532-e3c9347d997a" />
 
 #### Right Click on VM to open this Menu
 
