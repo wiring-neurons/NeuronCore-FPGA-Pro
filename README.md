@@ -196,6 +196,10 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 #### Now select the file and click on the delete option
 
+<img width="1486" height="369" alt="image" src="https://github.com/user-attachments/assets/e20def01-a1a2-49bf-b304-8ce2665f4223" />
+
+#### Open File Explorer and find the vsd_squadron_fpga_mini.zip file please make sure it is a zip file and please enter the correct spelling
+
 #### If the file is not found Please Install it from here 
 https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
 
