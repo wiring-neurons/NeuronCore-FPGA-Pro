@@ -215,9 +215,13 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 
 <img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/2b36c560-3250-4434-ba55-d48b1f71882f" />
 
-#### After selecting appropriate drive click on the extract option and wait for some time until the extraction is complete
+#### After selecting appropriate drive click on the extract option
 
 <img width="442" height="365" alt="image" src="https://github.com/user-attachments/assets/f10131d7-b4ba-458d-9c58-55daa70c6657" />
+
+#### Now wait for some time until the extraction is complete
+
+<img width="338" height="125" alt="image" src="https://github.com/user-attachments/assets/f8d43162-4a3a-4074-9766-fa2e5ceaa213" />
 
 #### Now come back to the storage setting option in the Virtual Box and right click on the "Controller: SATA" option
 
