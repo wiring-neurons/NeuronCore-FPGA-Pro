@@ -172,17 +172,30 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 #### Right Click on VM to open this Menu
 
-<img width="353" height="385" alt="image" src="https://github.com/user-attachments/assets/edcfa758-6386-4273-b3f3-f7459f9b44b7" />
+<img width="363" height="370" alt="image" src="https://github.com/user-attachments/assets/0b796ab9-908c-4d65-bafe-6063f18c664d" />
 
-#### Now Click on the Remove Option
+#### Now Click on the Settings Option
 
-<img width="307" height="176" alt="image" src="https://github.com/user-attachments/assets/9aeae18d-057f-45a8-8c4e-68628682d582" />
+<img width="580" height="356" alt="image" src="https://github.com/user-attachments/assets/0de549bc-d0ce-418b-ad75-38261d727c7b" />
 
-#### Now Click on the Delete All Files Option
+#### Now Click on the Storage Option
 
-<img width="1919" height="446" alt="image" src="https://github.com/user-attachments/assets/499f47ec-91ed-4fe7-9460-a4443a912d5e" />
+<img width="319" height="241" alt="image" src="https://github.com/user-attachments/assets/b4b3d022-9ea9-4302-9214-ed6f6afc050c" />
 
-#### Open File Explorer and find the vsd_squadron_fpga_mini.zip file please make sure it is a zip file
+#### Now right click on the "vsdsquadron_fpga_mini.vdi"
+
+<img width="319" height="241" alt="image" src="https://github.com/user-attachments/assets/37cde333-b6e7-493c-bd6d-b2fc6ca3462a" />
+
+#### Now click on the Remove Attachment option
+
+<img width="735" height="155" alt="image" src="https://github.com/user-attachments/assets/07238849-de14-4ba7-b5b7-111505fba8b4" />
+
+#### Open File Explorer and find the vsd_squadron_fpga_mini.vdi file please make sure it is a vdi file and please enter the correct spelling
+
+<img width="705" height="202" alt="image" src="https://github.com/user-attachments/assets/49885a29-13ba-45c3-a427-28e85d7000c4" />
+
+#### Now select the file and click on the delete option
+
 #### If the file is not found Please Install it from here 
 https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
 
