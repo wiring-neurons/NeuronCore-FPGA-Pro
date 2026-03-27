@@ -66,7 +66,7 @@ uart_tx u1(
 					cnt <= cnt+1;
 				end
 				2: begin
-					data <= carr_out;
+					data <= carr_out; //     DAC
 					cnt <= cnt+1;
 				end
 				3: begin
@@ -74,19 +74,19 @@ uart_tx u1(
 					cnt <= cnt+1;
 				end
 				4: begin
-					data <= mod_out;
+					data <= 124;
 					cnt <= cnt+1;
 				end
 				5: begin
-					data <= demod_out;
+					data <= 124;
 					cnt <= cnt+1;
 				end
 				6: begin
-					data <= 127;
+					data <= mod_out; //       DAC
 					cnt <= cnt+1;
 				end
 				7: begin
-					data <= 127;
+					data <= demod_out;
 					cnt <= cnt+1;
 				end
 				8: begin
