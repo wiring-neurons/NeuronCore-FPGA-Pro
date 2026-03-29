@@ -2,12 +2,17 @@
 
 
 
-#### Install on Linux New Version <details> <summary>  CLICK HERE </summary>
+####  <details> <summary> Install on Linux New Version CLICK HERE </summary>
 <br>
 
-#### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
+##### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
 
-#### If you already have linux then you can continue to install, 
+####  <details> <summary> How to install ISO file and start a VM </summary>
+<br>
+
+</details>
+
+##### If you already have linux then you can continue to install, 
 
 Make sure your user is added to Sudoers file
 
