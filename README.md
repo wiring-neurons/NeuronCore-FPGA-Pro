@@ -217,6 +217,8 @@ cd NeuronCore-FPGA-Pro
 
 </details>
 
+### ---------------------------------------------------------------
+
 ### Linux Old Version
 
 <details>
@@ -382,7 +384,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
  </details>
 </details>
 
-
+### ---------------------------------------------------------------
 ### Trouble Shooting with VirtualBox
 
 <details>
