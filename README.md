@@ -5,7 +5,7 @@
 
 #### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
 
-###  <details> <summary> How to install ISO file and start a VM </summary>
+<details> <summary> How to install ISO file and start a VM </summary>
 <br>
 
 </details>
@@ -15,7 +15,7 @@
 #### PREREQUISITE - 1
 #### Make sure your user is added to Sudoers file
 
-#### <details> <summary> If not added and you are facing error CLICK HERE </summary>
+<details> <summary> If not added and you are facing error CLICK HERE </summary>
 <br>
 
 ### __________________________________________________________
@@ -44,7 +44,7 @@
 #### When installing we have to enter a lot of commands an
 #### YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
 
-#### <details> <summary> if you want to remove the password then CLICK HERE </summary>
+ <details> <summary> if you want to remove the password then CLICK HERE </summary>
 <br>
 
 ### __________________________________________________________
