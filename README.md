@@ -1,8 +1,6 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
-
-
-
-###  <details> <summary> Install on Linux New Version CLICK HERE </summary>
+<details>
+<summary> Install on Linux New Version CLICK HERE </summary>
 <br>
 
 #### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
