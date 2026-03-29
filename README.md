@@ -24,24 +24,25 @@
 <details> <summary> If not added and you are facing error CLICK HERE </summary>
 <br>
 
-### __________________________________________________________
- Execute the following commands in order
-
- 1.
- ```
- su -
- ```
-
- 2.
- Replace username with the actual username
-
- ```
- sudo usermod -aG sudo username
- ```
-
- Now reboot your system
-
- ### __________________________________________________________
+    ### __________________________________________________________
+     Execute the following commands in order
+    
+     1.
+     ```
+     su -
+     ```
+    
+     2.
+     Replace username with the actual username
+    
+     ```
+     sudo usermod -aG sudo username
+     ```
+    
+     Now reboot your system
+    
+     ### __________________________________________________________
+     
 </details>
 
 
