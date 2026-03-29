@@ -1,9 +1,15 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
+
+### Linux New Version
+
 <details>
 <summary> Install on Linux New Version CLICK HERE </summary>
 <br>
 
 #### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
+
+#### If you already have linux you can skip the ISO file part and start with Prerequisites
+#### If you don't have linux and if you are planning to install on Windows using VM then go with the ISO file part and then continue
 
 <details> <summary> How to install ISO file and start a VM </summary>
 <br>
@@ -39,7 +45,7 @@
 </details>
 
 
-#### PREREQUISITE - 2 (Optional)
+#### PREREQUISITE - 2 (Optional but very convenient)
 
 #### When installing we have to enter a lot of commands an
 #### YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
@@ -58,6 +64,8 @@ After executing your command enter the password for one last time
 ### __________________________________________________________
 
 </details>
+
+#### PREREQUISITE - 3 (Optional but very convenient)
 
 <details>
 <summary> If you are installing in VM and your clipboard is not working between windows and VM then CLICK HERE</summary>
