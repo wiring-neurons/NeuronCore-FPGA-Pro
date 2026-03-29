@@ -18,13 +18,12 @@
 
 #### If you already have linux or if you finished installing VM, then you can continue to install from here 
 
+### __________________________________________________________
 #### PREREQUISITE - 1
 #### Make sure your user is added to Sudoers file
 
 <details> <summary> If not added and you are facing error CLICK HERE </summary>
 <br>
-
-### __________________________________________________________
 
 Execute the following commands in order
                                                             
@@ -41,11 +40,11 @@ sudo usermod -aG sudo username
 ```
  
  Now reboot your system
- ### __________________________________________________________
+
                                                              
 </details>
 
-
+### __________________________________________________________
 #### PREREQUISITE - 2 (Optional but very convenient)
 
 #### When installing we have to enter a lot of commands an
@@ -66,6 +65,7 @@ After executing your command enter the password for one last time
 
 </details>
 
+### __________________________________________________________
 #### PREREQUISITE - 3 (Optional but very convenient)
 
 <details>
@@ -99,10 +99,9 @@ sudo /media/cdrom/VBoxLinuxAdditions.run
 Then click on Devices > Shared Clipboard > Bidirectional
 Reboot your VM once if it's not working
 
-### __________________________________________________________
-
 </details>
 
+### __________________________________________________________
 #### From here we start the installation of the tool chain
 
 Execute the commands in the proper order
