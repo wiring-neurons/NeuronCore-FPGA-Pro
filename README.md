@@ -26,12 +26,12 @@
 
 ### __________________________________________________________
 
-  Execute the following commands in order
+Execute the following commands in order
                                                             
-  1.
-  ```
-  su -
-  ```
+1.
+```
+su -
+```
                                                             
 2.
 Replace username with the actual username
