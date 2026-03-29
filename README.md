@@ -14,8 +14,12 @@
 <details> <summary> How to install ISO file and start a VM </summary>
 <br>
 
-To Start Downloading you ISO file CLICK BELOW
+Make Sure You have atleast 50GB of space to install
+To Start Downloading your ISO file CLICK BELOW
 https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
+
+After the download is complete then Install Oracle VirtualBox
+https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 </details>
 
@@ -241,25 +245,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 #### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
-#### Click on the check box
-
-<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/29de53fb-9541-49c3-8c81-de27bc126624" />
-
-#### Click on Install
-
-<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/85d44d45-8977-423b-bde3-02a1beaf4226" />
-
-#### Then Click on Yes
-
-<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/d1af4448-26bb-42d7-adf4-ffc8e8517f59" />
-
 #### Then Please wait for sometime for it Install
-
-<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/c00fa091-f56f-4830-b010-d5db53b56824" />
-
-#### Wait until you see this
-
-<img width="353" height="223" alt="image" src="https://github.com/user-attachments/assets/8ff5dbb5-46dc-4b2b-a981-a941cbabd3b9" />
 
 #### Then Please Restart you computer
 
@@ -271,56 +257,10 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
-#### After downloading click on the file
-
-#### Then click on Yes
-
-<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/fe31e421-0e65-4870-a805-b39feb88c208" />
-
-#### Then click on Next
-
-<img width="497" height="401" alt="image" src="https://github.com/user-attachments/assets/93371348-e31f-4f11-a46b-0ea278afdfb1" />
-
-#### Then check the "I accept the terms in License Agreement"
-
-<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/015442ee-f68d-45c8-8332-f0c23a5bd76b" />
-
-#### Then click on Next
-
-<img width="496" height="390" alt="image" src="https://github.com/user-attachments/assets/09d73810-f5d7-413c-b53b-297c77340689" />
-
-#### Then again click on Next
-
-<img width="493" height="388" alt="image" src="https://github.com/user-attachments/assets/02433334-9294-4d5b-9883-e5ad008c25ef" />
-
-#### Then click on Yes
-
-<img width="493" height="391" alt="image" src="https://github.com/user-attachments/assets/c1cf51ce-a5d0-4985-9ea1-122caac1db61" />
-
-#### Then again click on Yes
-
-<img width="493" height="393" alt="image" src="https://github.com/user-attachments/assets/2f24b343-b9f8-466f-86cb-28f79c1b129a" />
-
-#### Then click on Next
-
-<img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/e9df9b4a-16f7-4619-92cf-d98b097066d7" />
-
-#### Then click on Install
-
-<img width="500" height="418" alt="image" src="https://github.com/user-attachments/assets/dd6aff58-a71d-4ecd-b12e-a69260f170a3" />
-
-#### Then wait until it finishes
-
-<img width="495" height="396" alt="image" src="https://github.com/user-attachments/assets/2e188602-3ae7-4d47-a250-9073a3493a08" />
-
-#### Then click on Finish
-
-<img width="507" height="425" alt="image" src="https://github.com/user-attachments/assets/23be1e0a-bc74-4744-a7bb-00a702a26e7d" />
+#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 ### Step 3:
 #### Make sure you have at least 50 GB space in your machine to install
-
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/2b36c560-3250-4434-ba55-d48b1f71882f" />
 
 #### After the file is downloaded Open Oracle VirtualBox and click on New
 
