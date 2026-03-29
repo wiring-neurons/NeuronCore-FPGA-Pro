@@ -1,13 +1,13 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
 
-<details>
-<summary> Install on Linux New Version CLICK HERE </summary>
+
+#### Install on Linux New Version <details> <summary>  CLICK HERE </summary>
 <br>
 
-### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
+#### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
 
-### If you already have linux then you can continue to install
+#### If you already have linux then you can continue to install, 
 
 Make sure your user is added to Sudoers file
 
@@ -43,18 +43,24 @@ YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
 <details>
 <summary> if you want to remove the password then CLICK HERE </summary>
 <br>
+
+### __________________________________________________________
  
 ```
 sudo passwd -d username
 ```
 Replace username with the actual username
 After executing your command enter the password for one last time
+
+### __________________________________________________________
+
 </details>
 
 <details>
 <summary> If you are installing in VM and your clipboard is not working between windows and VM then CLICK HERE</summary>
 <br>
 
+### __________________________________________________________
 
 1. Click on Devices > Insert Guest Additions CD Image
 
@@ -81,8 +87,11 @@ sudo /media/cdrom/VBoxLinuxAdditions.run
 Then click on Devices > Shared Clipboard > Bidirectional
 Reboot your VM once if it's not working
 
+### __________________________________________________________
+
 </details>
 
+#### From here we start the installation of the tool chain
 
 Execute the commands in the proper order
 
