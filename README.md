@@ -2,22 +2,22 @@
 
 
 
-####  <details> <summary> Install on Linux New Version CLICK HERE </summary>
+###  <details> <summary> Install on Linux New Version CLICK HERE </summary>
 <br>
 
-##### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
+#### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
 
-####  <details> <summary> How to install ISO file and start a VM </summary>
+###  <details> <summary> How to install ISO file and start a VM </summary>
 <br>
 
 </details>
 
-##### If you already have linux then you can continue to install, 
+#### If you already have linux or if you finished installing VM, then you can continue to install from here 
 
-Make sure your user is added to Sudoers file
+#### PREREQUISITE - 1
+#### Make sure your user is added to Sudoers file
 
-<details>
-<summary> If not added and you are facing error CLICK HERE </summary>
+#### <details> <summary> If not added and you are facing error CLICK HERE </summary>
 <br>
 
 ### __________________________________________________________
@@ -40,13 +40,13 @@ Make sure your user is added to Sudoers file
  ### __________________________________________________________
 </details>
 
-We Start the installation with these commands
 
+#### PREREQUISITE - 2 (Optional)
 
-YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
+#### When installing we have to enter a lot of commands an
+#### YOU HAVE TO ENTER PASSWORD AFTER EACH COMMAND
 
-<details>
-<summary> if you want to remove the password then CLICK HERE </summary>
+#### <details> <summary> if you want to remove the password then CLICK HERE </summary>
 <br>
 
 ### __________________________________________________________
