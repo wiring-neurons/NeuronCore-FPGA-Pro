@@ -53,7 +53,7 @@ sudo usermod -aG sudo username
  <details> <summary> if you want to remove the password then CLICK HERE </summary>
 <br>
 
-### __________________________________________________________
+
  
 ```
 sudo passwd -d username
@@ -61,7 +61,7 @@ sudo passwd -d username
 Replace username with the actual username
 After executing your command enter the password for one last time
 
-### __________________________________________________________
+
 
 </details>
 
@@ -71,8 +71,6 @@ After executing your command enter the password for one last time
 <details>
 <summary> If you are installing in VM and your clipboard is not working between windows and VM then CLICK HERE</summary>
 <br>
-
-### __________________________________________________________
 
 1. Click on Devices > Insert Guest Additions CD Image
 
