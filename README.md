@@ -264,7 +264,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 #### After the file is downloaded Open Oracle VirtualBox and click on New
 
-<img width="348" height="182" alt="image" src="https://github.com/user-attachments/assets/bcd761ce-bb92-4459-ba61-30e416dfea31" />
+<img width="348" height="182" alt="image" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
 
 #### Enter the Name as NeuronCore in the text box
 
