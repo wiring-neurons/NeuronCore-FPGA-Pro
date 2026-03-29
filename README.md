@@ -8,8 +8,8 @@
 
 #### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
 
-#### If you already have linux you can skip the ISO file part and start with Prerequisites
-#### If you don't have linux and if you are planning to install on Windows using VM then go with the ISO file part and then continue
+#### - If you already have linux you can skip the ISO file part and start with Prerequisites
+#### - If you don't have linux and if you are planning to install on Windows using VM then go with the ISO file part and then continue
 
 <details> <summary> How to install ISO file and start a VM </summary>
 <br>
@@ -217,6 +217,8 @@ cd NeuronCore-FPGA-Pro
 
 </details>
 
+### Linux Old Version
+
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
 <br>
@@ -379,6 +381,9 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
  </details>
 </details>
+
+
+### Trouble Shooting with VirtualBox
 
 <details>
 <summary> Trouble Shooting on Windows in VirtualBox CLICK HERE </summary>
