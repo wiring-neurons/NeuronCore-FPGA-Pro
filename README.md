@@ -268,7 +268,7 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 #### Enter the Name as NeuronCore in the text box
 
-<img width="570" height="431" alt="image" src="https://github.com/user-attachments/assets/f7329a17-0edd-42bd-a054-cee466566219" />
+<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
 
 #### Click on the Subtype
 
