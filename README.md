@@ -229,11 +229,6 @@ cd NeuronCore-FPGA-Pro
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
 <br>
-
-
-<details>
-<summary> New Installation through downloading </summary>
-<br>
  
 ### Step 1:
 
@@ -322,7 +317,6 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 <img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/02a119a7-f36f-46e0-b12f-984d639dd995" />
 
- </details>
 </details>
 
 ### ---------------------------------------------------------------
