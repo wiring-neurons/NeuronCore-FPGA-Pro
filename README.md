@@ -1,6 +1,6 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
-### Linux New Version
+### Linux New Version (Windows or Linux)
 
 <details>
 <summary> Install on Linux New Version CLICK HERE </summary>
@@ -224,7 +224,7 @@ cd NeuronCore-FPGA-Pro
 
 ### ---------------------------------------------------------------
 
-### Linux Old Version
+### Linux Old Version (Only Windows)
 
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
@@ -284,23 +284,23 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 #### Click on next to proceed to the next screen
 #### Then check the Use an Existing Virtual Hard Disk File
 
-<img width="446" height="277" alt="image" src="https://github.com/user-attachments/assets/18433a79-79a9-404c-8f81-af924efaa885" />
+<img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o6.png" />
 
 #### Then click on the file icon
 
-<img width="455" height="175" alt="image" src="https://github.com/user-attachments/assets/48e0d6e8-452c-4888-b330-fdb7a562ae04" />
+<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o7.png" />
 
 #### Then click on Add
 
-<img width="476" height="273" alt="image" src="https://github.com/user-attachments/assets/39f37cc1-9a97-4b03-aabf-d4916d46936f" />
+<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o8.png" />
 
-#### Then navigate in your system and select the NeuronCore.vdi file
+#### Then navigate in your system and select the vsdsquadron_fpga_mini.vdi file
 
-<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/311b4c63-5e34-438e-ad41-11a2a883f84f" />
+<img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o9.png" />
 
 #### Then click on Open
-
-<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/02a119a7-f36f-46e0-b12f-984d639dd995" />
+#### Then Finally click on "Finish" to create the vdi file
+#### Then Click on Start to launch you Linux Ubuntu VM
 
 </details>
 
