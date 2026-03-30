@@ -303,7 +303,7 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 <img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o9.png" />
 
 #### Then click on Open
-#### Then Finally click on "Finish" to create the vdi file
+#### Then Finally click on "Finish" to creating the VM
 #### Then Click on Start to launch you Linux Ubuntu VM
 
 <img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o10.png" />
