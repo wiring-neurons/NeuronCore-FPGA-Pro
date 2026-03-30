@@ -259,7 +259,11 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
 
-#### After the file is downloaded Open Oracle VirtualBox and click on New
+#### After the file is downloaded locate the file by searching vsdsquadron_fpga_mini.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
+
+<img width="323" height="291" alt="1o" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/1o.png" />
+
+#### After the file is extracted Open Oracle VirtualBox and click on New
 
 <img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
 
@@ -301,6 +305,8 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 #### Then click on Open
 #### Then Finally click on "Finish" to create the vdi file
 #### Then Click on Start to launch you Linux Ubuntu VM
+
+<img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o10.png" />
 
 </details>
 
