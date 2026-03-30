@@ -255,7 +255,9 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 #### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 ### Step 3:
-#### Make sure you have at least 50 GB space in your machine to install
+#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the VM
+
+https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
 
 #### After the file is downloaded Open Oracle VirtualBox and click on New
 
@@ -265,38 +267,21 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 <img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
 
-#### Click on the Subtype
+#### Click on the Subtype then select Ubuntu
 
-<img width="318" height="120" alt="image" src="https://github.com/user-attachments/assets/b5557508-8dbf-4b58-b0f7-41750f6c7f40" />
+<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o3.png" />
 
-#### Then select Ubuntu
+#### Click on version Scroll down till you find "Xubuntu x64" select it
 
-<img width="433" height="275" alt="image" src="https://github.com/user-attachments/assets/d2b8a64a-83e6-40a6-8fce-9cf16d9dbc09" />
+<img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o4.png" />
 
-#### Then click on the Version
+#### Click on next to proceed to the next screen
 
-<img width="427" height="113" alt="image" src="https://github.com/user-attachments/assets/7ec376b9-8f85-4f26-a5b6-0c1d13628fad" />
+#### Here enter the RAM as 2048 and the CPU's as 2
 
-#### Then scroll down until you find the "Ubuntu 20.04 LTS (Focal Fossa) (64-bit)" then select it
+<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o5.png" />
 
-<img width="567" height="442" alt="image" src="https://github.com/user-attachments/assets/a7b937d7-fdcd-4660-8ed3-eeda3909d6e0" />
-
-#### Then click on Hardware
-
-<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/66288c59-3108-4f28-8ecd-1acb44f00f65" />
-
-#### Here enter the RAM as 2048
-
-<img width="452" height="171" alt="image" src="https://github.com/user-attachments/assets/c99662f4-cf6f-46a3-a5b9-99c188a84092" />
-
-#### Here enter the CPU as 2
-
-<img width="446" height="206" alt="image" src="https://github.com/user-attachments/assets/72f6823d-00a9-4016-90d8-4ab5914d20e0" />
-
-#### Then click on Hard Disk
-
-<img width="446" height="206" alt="image" src="https://github.com/user-attachments/assets/28ee5342-d4ad-4646-b1a8-2d59f4dd94e8" />
-
+#### Click on next to proceed to the next screen
 #### Then check the Use an Existing Virtual Hard Disk File
 
 <img width="446" height="277" alt="image" src="https://github.com/user-attachments/assets/18433a79-79a9-404c-8f81-af924efaa885" />
