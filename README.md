@@ -14,12 +14,58 @@
 <details> <summary> How to install ISO file and start a VM </summary>
 <br>
 
-Make Sure You have atleast 50GB of space to install
-To Start Downloading your ISO file CLICK BELOW
+### Step 1:
+
+#### Install Microsoft C++ redistributable
+
+#### CLICK on the link below to start downloading
+
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
+
+#### Then Please wait for sometime for it Install
+
+#### Then Please Restart you computer
+
+### Step 2:
+
+#### Install Oracle Virtual Box Version 7.1.2
+
+#### CLICK below to start downloading
+
+https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+
+#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
+
+### Step 3:
+#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the ISO file
+
 https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
 
-After the download is complete then Install Oracle VirtualBox
-https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+#### After the file is downloaded Open Oracle VirtualBox and click on New
+
+<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
+
+#### Enter the Name as NeuronCore in the text box
+
+<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
+
+#### Then make sure which drive in your computer has atleast 50 GB of storage and make sure to select that drive
+#### If the default option doesn't have 50GB then click on the drop down and "Others" and select the appropriate location
+
+<img width="459" height="190" alt="n1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n1.png" />
+
+#### Open the ISO file drop down and click on other
+
+<img width="457" height="214" alt="n2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n2.png" />
+
+#### Then search for "ubuntu-20.04.6-desktop-amd64.iso" and open it
+
+<img width="579" height="365" alt="n3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n3.png" />
+
+
+
 
 </details>
 
