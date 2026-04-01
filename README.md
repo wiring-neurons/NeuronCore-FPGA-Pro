@@ -394,88 +394,47 @@ cd NeuronCore-FPGA-Pro
 <summary> Trouble Shooting on Windows in VirtualBox CLICK HERE </summary>
 <br>
 
-#### Right Click on VM to open this Menu
+#### 1. Right Click on VM to open this Menu
 
-<img width="353" height="385" alt="image" src="https://github.com/user-attachments/assets/a7be9e9b-73ed-4f83-a532-e3c9347d997a" />
+#### 2. Now Click on the Settings Option
 
-#### Now Click on the Settings Option
+#### 3. Now Click on the Storage Option
 
-<img width="363" height="370" alt="image" src="https://github.com/user-attachments/assets/0b796ab9-908c-4d65-bafe-6063f18c664d" />
+#### 4. Now right click on the ".vdi" file
 
-#### Now Click on the Storage Option
+#### 5. Now click on the Remove Attachment option
 
-<img width="580" height="356" alt="image" src="https://github.com/user-attachments/assets/0de549bc-d0ce-418b-ad75-38261d727c7b" />
+#### 6. Open File Explorer and find the .vdi file please make sure it is a vdi file
 
-#### Now right click on the "vsdsquadron_fpga_mini.vdi"
+#### 7. Now select the file and click on the delete option
 
-<img width="319" height="241" alt="image" src="https://github.com/user-attachments/assets/b4b3d022-9ea9-4302-9214-ed6f6afc050c" />
+#### 8. Open File Explorer and find the .zip file please make sure it is a zip file
 
-#### Now click on the Remove Attachment option
+#### 9. If the file is not found Please Install it again
 
-<img width="319" height="241" alt="image" src="https://github.com/user-attachments/assets/37cde333-b6e7-493c-bd6d-b2fc6ca3462a" />
+#### 10. After Finding or Downloading the file right click on it and then click extract all option
 
-#### Open File Explorer and find the vsd_squadron_fpga_mini.vdi file please make sure it is a vdi file and please enter the correct spelling
+#### 11. In this click on the Browse option and select an appropriate drive which has enough space
 
-<img width="735" height="155" alt="image" src="https://github.com/user-attachments/assets/07238849-de14-4ba7-b5b7-111505fba8b4" />
+#### 12. Make sure you have at least 50 GB space in your drive to install
 
-#### Now select the file and click on the delete option
+#### 13. After selecting appropriate drive click on the extract option
 
-<img width="705" height="202" alt="image" src="https://github.com/user-attachments/assets/49885a29-13ba-45c3-a427-28e85d7000c4" />
+#### 14. Now wait for some time until the extraction is complete
 
-#### Open File Explorer and find the vsd_squadron_fpga_mini.zip file please make sure it is a zip file and please enter the correct spelling
+#### 15. Now come back to the storage setting option in the Virtual Box and right click on the "Controller: SATA" option
 
-<img width="1486" height="369" alt="image" src="https://github.com/user-attachments/assets/e20def01-a1a2-49bf-b304-8ce2665f4223" />
+#### 16. Now click on the Hard Disk option
 
-#### If the file is not found Please Install it from here 
-https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
+#### 17. Click on the Add Option
 
-#### After Finding or Downloading the file right click on it and then click extract all option
+#### 18. Here navigate and locate the extracted vdi file and select it
 
-<img width="385" height="406" alt="image" src="https://github.com/user-attachments/assets/0e3786bc-8798-403c-9d8b-bf8d09c8c179" />
+#### 19. Now click on the Open option
 
-#### In this click on the Browse option and select an appropriate drive which has enough space
+#### 20. Now click on the Choose option
 
-<img width="442" height="365" alt="image" src="https://github.com/user-attachments/assets/081353b9-c7ce-4616-9e80-985b2eabc9f7" />
-
-#### Make sure you have at least 50 GB space in your machine to install
-
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/2b36c560-3250-4434-ba55-d48b1f71882f" />
-
-#### After selecting appropriate drive click on the extract option
-
-<img width="442" height="365" alt="image" src="https://github.com/user-attachments/assets/f10131d7-b4ba-458d-9c58-55daa70c6657" />
-
-#### Now wait for some time until the extraction is complete
-
-<img width="338" height="125" alt="image" src="https://github.com/user-attachments/assets/f8d43162-4a3a-4074-9766-fa2e5ceaa213" />
-
-#### Now come back to the storage setting option in the Virtual Box and right click on the "Controller: SATA" option
-
-<img width="432" height="278" alt="image" src="https://github.com/user-attachments/assets/f1ccf9b0-25d2-48e5-ab3b-208f22bf2472" />
-
-#### Now click on the Hard Disk option
-
-<img width="432" height="278" alt="image" src="https://github.com/user-attachments/assets/44106101-224c-48d4-80d4-e6983efee5c4" />
-
-#### Click on the Add Option
-
-<img width="307" height="125" alt="image" src="https://github.com/user-attachments/assets/b99f49a8-3747-491f-a8e6-f44b88445fbe" />
-
-#### Here navigate and locate the extracted vdi file and select it
-
-<img width="465" height="359" alt="image" src="https://github.com/user-attachments/assets/f5d0e5d2-63f0-4163-8874-20b4aea6ea8d" />
-
-#### Now click on the Open option
-
-<img width="465" height="359" alt="image" src="https://github.com/user-attachments/assets/c8f96d7b-b43e-43e0-aa79-7225481e519b" />
-
-#### Now click on the Choose option
-
-<img width="474" height="247" alt="image" src="https://github.com/user-attachments/assets/38f0b25a-863a-4f64-96b7-b3ec2897e3fd" />
-
-#### Now click on the Ok option
-
-<img width="431" height="341" alt="image" src="https://github.com/user-attachments/assets/bffa3fa9-9346-4273-a2b8-86c59c52777e" />
+#### 21. Now click on the Ok option
 
 #### Now the Crashed VM should be fixed and it should launch and run correctly, in order to avoid this problem please don't move or delete the vdi file and while closing the Virtual Machine first close the Ubuntu Window and then the Virtual Box window, Directly closing the Vritual Box window might crash the Vritual Machine
 
