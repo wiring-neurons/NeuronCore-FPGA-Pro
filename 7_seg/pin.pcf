@@ -1,0 +1,9 @@
+set_io  BR 28
+set_io  TR 31
+set_io  BL 26
+set_io  TL 25
+set_io   B 27
+set_io   M 23
+set_io   T 32
+set_io  D1 35
+set_io  D2 34
