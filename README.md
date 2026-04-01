@@ -74,11 +74,11 @@ https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5Mkk
 
 #### Then click on the file icon
 
-<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/images/blob/main/o7.png" />
+<img width="446" height="251" alt="5n" src="https://github.com/wiring-neurons/images/blob/main/5n.png" />
 
 #### Then click on Add
 
-<img width="446" height="251" alt="5n" src="https://github.com/wiring-neurons/images/blob/main/5n.png" />
+<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/images/blob/main/o8.png" />
 
 #### Then navigate in your system and select the Extracted NeuronCore.vdi file
 
