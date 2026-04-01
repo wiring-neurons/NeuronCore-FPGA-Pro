@@ -183,7 +183,7 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 ### ToolChain for Linux Ubuntu 20.04
 
 <details>
-<summary> Install on Linux Using Commands </summary>
+<summary> Install on Linux Using Commands CLICK HERE </summary>
 <br>
   
 #### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fossa, if you are installing in any other version it may not work you can give it a try and troubleshoot
