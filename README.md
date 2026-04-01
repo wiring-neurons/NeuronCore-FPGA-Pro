@@ -1,6 +1,6 @@
 # NeuronCore FPGA Complete Tool Chain Installation for Linux
 
-### ToolChain in Windows using Linux VM (NEW)
+### ToolChain for Windows using Linux VM (NEW)
 
 <details>
 <summary> Install on Linux New Version CLICK HERE </summary>
@@ -93,7 +93,7 @@ https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5Mkk
 
 ### ---------------------------------------------------------------
 
-### ToolChain in Windows using Linux VM (OLD) Not recommended
+### ToolChain for Windows using Linux VM (OLD) Not recommended
 
 <details>
 <summary> Install on Windows using VirtualBox CLICK HERE </summary>
@@ -180,7 +180,7 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 </details>
 
 ### ---------------------------------------------------------------
-### ToolChain in Linux Ubuntu 20.04
+### ToolChain for Linux Ubuntu 20.04
 
 <details>
 <summary> Install on Linux Using Commands </summary>
