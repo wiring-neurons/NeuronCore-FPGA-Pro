@@ -6,14 +6,6 @@
 <summary> Install on Linux New Version CLICK HERE </summary>
 <br>
 
-#### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fiesta, if you are installing in any other version it may not work
-
-#### - If you already have linux you can skip the ISO file part and start with Prerequisites
-#### - If you don't have linux and if you are planning to install on Windows using VM then go with the ISO file part and then continue
-
-<details> <summary> How to install ISO file and start a VM </summary>
-<br>
-
 ### Step 1:
 
 #### Install Microsoft C++ redistributable
@@ -39,9 +31,9 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 #### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
 
 ### Step 3:
-#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the ISO file
+#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the vdi file
 
-https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
+
 
 #### After the file is downloaded Open Oracle VirtualBox and click on New
 
@@ -52,24 +44,107 @@ https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
 <img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
 
 #### Then make sure which drive in your computer has atleast 50 GB of storage and make sure to select that drive
-#### If the default option doesn't have 50GB then click on the drop down and "Others" and select the appropriate location
-
-<img width="459" height="190" alt="n1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n1.png" />
-
-#### Open the ISO file drop down and click on other
-
-<img width="457" height="214" alt="n2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n2.png" />
-
-#### Then search for "ubuntu-20.04.6-desktop-amd64.iso" and open it
-
-<img width="579" height="365" alt="n3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/n3.png" />
-
-
 
 
 </details>
 
-#### If you already have linux or if you finished installing VM, then you can continue to install from here 
+### ---------------------------------------------------------------
+
+### ToolChain in Windows using Linux VM (OLD) Not recommended
+
+<details>
+<summary> Install on Windows using VirtualBox CLICK HERE </summary>
+<br>
+ 
+### Step 1:
+
+#### Install Microsoft C++ redistributable
+
+#### CLICK on the link below to start downloading
+
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
+
+#### Then Please wait for sometime for it Install
+
+#### Then Please Restart you computer
+
+### Step 2:
+
+#### Install Oracle Virtual Box Version 7.1.2
+
+#### CLICK below to start downloading
+
+https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
+
+#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
+
+### Step 3:
+#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the VM
+
+https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
+
+#### After the file is downloaded locate the file by searching vsdsquadron_fpga_mini.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
+
+<img width="323" height="291" alt="1o" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/1o.png" />
+
+#### After the file is extracted Open Oracle VirtualBox and click on New
+
+<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
+
+#### Enter the Name as NeuronCore in the text box
+
+<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
+
+#### Click on the Subtype then select Ubuntu
+
+<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o3.png" />
+
+#### Click on version Scroll down till you find "Xubuntu x64" select it
+
+<img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o4.png" />
+
+#### Click on next to proceed to the next screen
+
+#### Here enter the RAM as 2048 and the CPU's as 2
+
+<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o5.png" />
+
+#### Click on next to proceed to the next screen
+#### Then check the Use an Existing Virtual Hard Disk File
+
+<img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o6.png" />
+
+#### Then click on the file icon
+
+<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o7.png" />
+
+#### Then click on Add
+
+<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o8.png" />
+
+#### Then navigate in your system and select the vsdsquadron_fpga_mini.vdi file
+
+<img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o9.png" />
+
+#### Then click on Open
+#### Then Finally click on "Finish" to creating the VM
+#### Then Click on Start to launch you Linux Ubuntu VM
+
+<img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o10.png" />
+
+</details>
+
+### ---------------------------------------------------------------
+### ToolChain in Linux Ubuntu 20.04
+
+<details>
+<summary> Install on Linux Using Commands </summary>
+<br>
+  
+#### This has been tried and tested for Linux Ubuntu 20.04 LTS Focal Fossa, if you are installing in any other version it may not work you can give it a try and troubleshoot
+#### You can also install this on a VM if you create the VM using an ISO file
 
 ### __________________________________________________________
 #### PREREQUISITE - 1
@@ -265,103 +340,6 @@ git clone https://github.com/wiring-neurons/NeuronCore-FPGA-Pro.git
 ```
 cd NeuronCore-FPGA-Pro
 ```
-
-</details>
-
-### ---------------------------------------------------------------
-
-### ToolChain in Windows using Linux VM (OLD) Not recommended
-
-<details>
-<summary> Install on Windows using VirtualBox CLICK HERE </summary>
-<br>
- 
-### Step 1:
-
-#### Install Microsoft C++ redistributable
-
-#### CLICK on the link below to start downloading
-
-https://aka.ms/vs/17/release/vc_redist.x64.exe
-
-#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
-
-#### Then Please wait for sometime for it Install
-
-#### Then Please Restart you computer
-
-### Step 2:
-
-#### Install Oracle Virtual Box Version 7.1.2
-
-#### CLICK below to start downloading
-
-https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
-
-#### After downloading click on the file and then approve the terms and conditions and authenticate everything it asks
-
-### Step 3:
-#### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the VM
-
-https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.zip
-
-#### After the file is downloaded locate the file by searching vsdsquadron_fpga_mini.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
-
-<img width="323" height="291" alt="1o" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/1o.png" />
-
-#### After the file is extracted Open Oracle VirtualBox and click on New
-
-<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
-
-#### Enter the Name as NeuronCore in the text box
-
-<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
-
-#### Click on the Subtype then select Ubuntu
-
-<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o3.png" />
-
-#### Click on version Scroll down till you find "Xubuntu x64" select it
-
-<img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o4.png" />
-
-#### Click on next to proceed to the next screen
-
-#### Here enter the RAM as 2048 and the CPU's as 2
-
-<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o5.png" />
-
-#### Click on next to proceed to the next screen
-#### Then check the Use an Existing Virtual Hard Disk File
-
-<img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o6.png" />
-
-#### Then click on the file icon
-
-<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o7.png" />
-
-#### Then click on Add
-
-<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o8.png" />
-
-#### Then navigate in your system and select the vsdsquadron_fpga_mini.vdi file
-
-<img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o9.png" />
-
-#### Then click on Open
-#### Then Finally click on "Finish" to creating the VM
-#### Then Click on Start to launch you Linux Ubuntu VM
-
-<img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o10.png" />
-
-</details>
-
-### ---------------------------------------------------------------
-### ToolChain in Linux Ubuntu 20.04
-
-<details>
-<summary> Install on Linux Using Commands </summary>
-<br>
 
 
 </details>
