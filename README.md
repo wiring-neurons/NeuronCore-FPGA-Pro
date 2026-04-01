@@ -32,12 +32,19 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 ### Step 3:
 #### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the vdi file
+Click Below to Download
+https://drive.google.com/file/d/1iLUvSEuiu7TVTzyMzi-fywi6FH5MkkZt/view
+
+Alternate Link
+https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5MkkZt&export=download&authuser=0
+
+#### After the file is downloaded locate the file by searching NeuronCore.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
 
 
 
-#### After the file is downloaded Open Oracle VirtualBox and click on New
+#### After the file is extracted Open Oracle VirtualBox and click on New
 
-<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
+<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/images/blob/main/o1.png" />
 
 #### Enter the Name as NeuronCore in the text box
 
@@ -105,13 +112,13 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 
 <img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o4.png" />
 
-#### Click on next to proceed to the next screen
+#### Click on next or Hardware to proceed to the next screen
 
 #### Here enter the RAM as 2048 and the CPU's as 2
 
 <img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o5.png" />
 
-#### Click on next to proceed to the next screen
+#### Click on next or Hard Disk to proceed to the next screen
 #### Then check the Use an Existing Virtual Hard Disk File
 
 <img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o6.png" />
