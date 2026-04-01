@@ -40,7 +40,7 @@ https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5Mkk
 
 #### After the file is downloaded locate the file by searching NeuronCore.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
 
-
+<img width="290" height="269" alt="1n" src="https://github.com/wiring-neurons/images/blob/main/1n.png" />
 
 #### After the file is extracted Open Oracle VirtualBox and click on New
 
@@ -48,7 +48,7 @@ https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5Mkk
 
 #### Enter the Name as NeuronCore in the text box
 
-<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
+<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/images/blob/main/o2.png" />
 
 #### Then make sure which drive in your computer has atleast 50 GB of storage and make sure to select that drive
 
@@ -94,52 +94,52 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 
 #### After the file is downloaded locate the file by searching vsdsquadron_fpga_mini.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
 
-<img width="323" height="291" alt="1o" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/1o.png" />
+<img width="323" height="291" alt="1o" src="https://github.com/wiring-neurons/images/blob/main/1o.png" />
 
 #### After the file is extracted Open Oracle VirtualBox and click on New
 
-<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o1.png" />
+<img width="293" height="215" alt="o1" src="https://github.com/wiring-neurons/images/blob/main/o1.png" />
 
 #### Enter the Name as NeuronCore in the text box
 
-<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o2.png" />
+<img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/images/blob/main/o2.png" />
 
 #### Click on the Subtype then select Ubuntu
 
-<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o3.png" />
+<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/images/blob/main/o3.png" />
 
 #### Click on version Scroll down till you find "Xubuntu x64" select it
 
-<img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o4.png" />
+<img width="433" height="350" alt="o4" src="https://github.com/wiring-neurons/images/blob/main/o4.png" />
 
 #### Click on next or Hardware to proceed to the next screen
 
 #### Here enter the RAM as 2048 and the CPU's as 2
 
-<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o5.png" />
+<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/images/blob/main/o5.png" />
 
 #### Click on next or Hard Disk to proceed to the next screen
 #### Then check the Use an Existing Virtual Hard Disk File
 
-<img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o6.png" />
+<img width="475" height="295" alt="o6" src="https://github.com/wiring-neurons/images/blob/main/o6.png" />
 
 #### Then click on the file icon
 
-<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o7.png" />
+<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/images/blob/main/o7.png" />
 
 #### Then click on Add
 
-<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o8.png" />
+<img width="356" height="282" alt="o8" src="https://github.com/wiring-neurons/images/blob/main/o8.png" />
 
 #### Then navigate in your system and select the vsdsquadron_fpga_mini.vdi file
 
-<img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o9.png" />
+<img width="470" height="350" alt="o9" src="https://github.com/wiring-neurons/images/blob/main/o9.png" />
 
 #### Then click on Open
 #### Then Finally click on "Finish" to creating the VM
 #### Then Click on Start to launch you Linux Ubuntu VM
 
-<img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/NeuronCore-FPGA-Pro/blob/main/images/o10.png" />
+<img width="272" height="217" alt="o10" src="https://github.com/wiring-neurons/images/blob/main/o10.png" />
 
 </details>
 
