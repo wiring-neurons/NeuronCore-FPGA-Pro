@@ -50,7 +50,40 @@ https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5Mkk
 
 <img width="462" height="245" alt="o2" src="https://github.com/wiring-neurons/images/blob/main/o2.png" />
 
-#### Then make sure which drive in your computer has atleast 50 GB of storage and make sure to select that drive
+#### Click on the Subtype then select Ubuntu
+
+<img width="464" height="350" alt="o3" src="https://github.com/wiring-neurons/images/blob/main/o3.png" />
+
+#### Click on version Scroll down till you find "Ubuntu 20,04 LTS (Focal Fossa)" select it
+
+<img width="452" height="344" alt="2n" src="https://github.com/wiring-neurons/images/blob/main/2n.png" />
+
+#### Click on next or Hardware to proceed to the next screen
+
+#### Here enter the RAM as 2048 and the CPU's as 2
+
+<img width="476" height="235" alt="o5" src="https://github.com/wiring-neurons/images/blob/main/o5.png" />
+
+#### Click on next or Hard Disk to proceed to the next screen
+#### Then check the Use an Existing Virtual Hard Disk File
+
+<img width="446" height="251" alt="3n" src="https://github.com/wiring-neurons/images/blob/main/3n.png" />
+
+#### Then click on the file icon
+
+<img width="475" height="295" alt="o7" src="https://github.com/wiring-neurons/images/blob/main/o7.png" />
+
+#### Then click on Add
+
+<img width="446" height="251" alt="5n" src="https://github.com/wiring-neurons/images/blob/main/5n.png" />
+
+#### Then navigate in your system and select the Extracted NeuronCore.vdi file
+
+<img width="454" height="335" alt="4n" src="https://github.com/wiring-neurons/images/blob/main/4n.png" />
+
+#### Then click on Open
+#### Then Finally click on "Finish" to creating the VM
+#### Then Click on Start to launch you Linux Ubuntu VM
 
 
 </details>
