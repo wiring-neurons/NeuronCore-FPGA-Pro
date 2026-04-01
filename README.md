@@ -32,10 +32,13 @@ https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe
 
 ### Step 3:
 #### Make sure you have at least 50 GB space in your machine to install, then click on the below link to start installing the vdi file
+
 Click Below to Download
+
 https://drive.google.com/file/d/1iLUvSEuiu7TVTzyMzi-fywi6FH5MkkZt/view
 
 Alternate Link
+
 https://drive.usercontent.google.com/download?id=1iLUvSEuiu7TVTzyMzi-fywi6FH5MkkZt&export=download&authuser=0
 
 #### After the file is downloaded locate the file by searching NeuronCore.zip, and then right click on it then extract and select appropriate folder which has alteast 50 GB space
