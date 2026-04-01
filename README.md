@@ -360,9 +360,11 @@ https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/vsdsquadron_fpga_mini.
 ### ToolChain in Linux Ubuntu 20.04
 
 <details>
-<summary> Install on Linux </summary>
+<summary> Install on Linux Using Commands </summary>
 <br>
 
+
+</details>
 
 ### ---------------------------------------------------------------
 ### Trouble Shooting with VirtualBox
