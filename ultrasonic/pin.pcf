@@ -1,0 +1,5 @@
+set_io tx 14
+set_io clk 20
+set_io tx2 47
+set_io echo 42
+set_io trig 38
